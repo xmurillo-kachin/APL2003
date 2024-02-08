@@ -31,3 +31,4 @@ C:\Azure\Containers\APL2003\obj\Debug\net8.0\refint\APL2003.dll
 C:\Azure\Containers\APL2003\obj\Debug\net8.0\APL2003.pdb
 C:\Azure\Containers\APL2003\obj\Debug\net8.0\APL2003.genruntimeconfig.cache
 C:\Azure\Containers\APL2003\obj\Debug\net8.0\ref\APL2003.dll
+C:\Azure\Containers\APL2003\obj\Debug\net8.0\APL2003.sourcelink.json
